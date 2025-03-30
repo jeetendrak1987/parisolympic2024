@@ -1,0 +1,70 @@
+{
+   "files": [
+     {
+       "filename": "athletes",
+       "foldername": "athletes",
+       "filepath": "jeetendrak1987/parisolympic2024/refs/heads/main/athletes.csv"
+     },
+     {
+       "filename": "coaches",
+       "foldername": "coaches",
+       "filepath": "jeetendrak1987/parisolympic2024/refs/heads/main/coaches.csv"
+     },
+     {
+       "filename": "events",
+       "foldername": "events",
+       "filepath": "jeetendrak1987/parisolympic2024/refs/heads/main/events.csv"
+     },
+     {
+       "filename": "medallists",
+       "foldername": "medallists",
+       "filepath": "jeetendrak1987/parisolympic2024/refs/heads/main/medallists.csv"
+     },
+     {
+       "filename": "medals",
+       "foldername": "medals",
+       "filepath": "jeetendrak1987/parisolympic2024/refs/heads/main/medals.csv"
+     },
+     {
+       "filename": "medals_total",
+       "foldername": "medals_total",
+       "filepath": "jeetendrak1987/parisolympic2024/refs/heads/main/medals_total.csv"
+     },
+     {
+       "filename": "nocs",
+       "foldername": "nocs",
+       "filepath": "jeetendrak1987/parisolympic2024/refs/heads/main/nocs.csv"
+     },
+     {
+       "filename": "schedules",
+       "foldername": "schedules",
+       "filepath": "jeetendrak1987/parisolympic2024/refs/heads/main/schedules.csv"
+     },
+     {
+       "filename": "schedules_preliminary",
+       "foldername": "schedules_preliminary",
+       "filepath": "jeetendrak1987/parisolympic2024/refs/heads/main/schedules_preliminary.csv"
+     },
+     {
+       "filename": "teams",
+       "foldername": "teams",
+       "filepath": "jeetendrak1987/parisolympic2024/refs/heads/main/teams.csv"
+     },
+     {
+       "filename": "technical_officials",
+       "foldername": "technical_officials",
+       "filepath": "jeetendrak1987/parisolympic2024/refs/heads/main/technical_officials.csv"
+     },
+     {
+       "filename": "torch_route",
+       "foldername": "torch_route",
+       "filepath": "jeetendrak1987/parisolympic2024/refs/heads/main/torch_route.csv"
+     },
+     {
+       "filename": "venues",
+       "foldername": "venues",
+       "filepath": "jeetendrak1987/parisolympic2024/refs/heads/main/venues.csv"
+     }
+   ]
+ }
+ 
